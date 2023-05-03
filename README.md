@@ -2,8 +2,8 @@
 
 # 1. Modelo en Azure ML Studio
 Screenshot del Overview <br>
-![overview primer screenshot](/Images/Overide_1.png)
-![overview segundo screenshot](/Images/Overide_2.png)
+![Overide primer screenshot](/Images/Overide_1.png)
+![Overide segundo screenshot](/Images/Overide_2.png)
 -------
 
 Screenshot de los Models
