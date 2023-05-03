@@ -18,7 +18,7 @@ Screenshot de las Metrics<br>
 # 2. Mongo DB -  Conexión de colabs con Mongo DB </br>
 https://colab.research.google.com/drive/1_l9YFjdm6Dkww1b8nxPbPn9MBHkvZUNl?usp=sharing
 
-# 3. Mongo DB
+# 3. Mongo DB - Practica en Compass
 
 # 4. Modelos de regresión lineal con streamlit - Iris
 https://eliassantamaria-herramientas3-portafolio-1-estadistica-pptsog.streamlit.app/
