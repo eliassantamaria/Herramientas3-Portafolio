@@ -10,7 +10,7 @@ Screenshot de los Models
 ![Models unica imagen](/Imagenes/Model.png)
 -----
 
-Screenshot de las Metrics
+Screenshot de las Metrics<br>
 ![Metricas primer Screenshot](/Imagenes/Metricas_1.png)
 ![Metricas Segundo Screenshot](/Imagenes/Metricas_2.png)
 
