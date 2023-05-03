@@ -7,7 +7,7 @@ Screenshot del Overview <br>
 -------
 
 Screenshot de los Models
-![Models](/images/model.png)
+![Models unica imagen](/Imagenes/Model.png)
 -----
 
 Screenshot de las Metrics
