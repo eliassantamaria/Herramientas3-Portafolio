@@ -15,7 +15,8 @@ Screenshot de las Metrics<br>
 ![Metricas Segundo Screenshot](/Imagenes/Metricas_2.png)
 -----
 
-# 2. Mongo DB -  log de commits </br>
+# 2. Mongo DB -  Conexión de colabs con Mongo DB </br>
+https://colab.research.google.com/drive/1_l9YFjdm6Dkww1b8nxPbPn9MBHkvZUNl?usp=sharing
 
 # 3. Mongo DB
 
