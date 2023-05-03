@@ -28,7 +28,4 @@ st.dataframe(dfIris.describe())
 st.write("Clases:")
 st.write(dfIris["variety"].value_counts())
 
-pages = [f[:-3] for f in os.listdir("Pages") if f.endswith(".py")]
-selection = st.sidebar.radio("Pages:", pages)
-page_module = importlib.import_module(f"Pages.{selection}")
-page_module.show()
+
