@@ -22,7 +22,7 @@ https://colab.research.google.com/drive/1_l9YFjdm6Dkww1b8nxPbPn9MBHkvZUNl?usp=sh
 # 3. Mongo DB - Practica en Compass
 ![Imagen de log collection](/Imagenes/log_collections.png)
 ![Imagen de log groupbt_Date_aggregations](/Imagenes/log.groupby_date_aggregations.png)
-![Imagen de log groupby_date](/Imagenes/log.groupby_date.png.png)
+![Imagen de log groupby_date](/Imagenes/log.groupby_date.png)
 ![Imagen de log commit de documents](/Imagenes/log.commit_Documents.png)
 ![Imagen de log commit de aggregations](/Imagenes/log.commit_Aggregations.png)
 ![Imagen de groupby_date_view_documents](/Imagenes/groupby_date_view_documents.png)
